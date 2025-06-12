@@ -15,3 +15,8 @@ rojo serve
 ```
 
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
+
+# Details
+Version: Alpha 6.12.2025
+
+Made support for CFrame recording on Models and BaseParts, single frame Replayer.
